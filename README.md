@@ -46,6 +46,10 @@ visualize your stories as a graph
 
 `python -m rasa_core.visualize -s stories.md -d domain.yml -o story_graph.html`
 
+## Results
+![Chatbot Snippet](https://github.com/Ajinkz/Marathi-MoodBot/blob/master/Marathi_moodbot.png)
+
+
 ## Acknowledgment
 
 * [Souvik Ghosh](https://github.com/souvikg10/rasa_bot_example)
