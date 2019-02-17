@@ -1,0 +1,36 @@
+intents:
+- namaskar
+- alvida
+- hokar
+- nakar
+- mast
+- udas
+
+actions:
+- utter_namaskar
+- utter_khus_ho
+- utter_madat_upyogi_padli_ka
+- utter_mast
+- utter_alvida
+
+templates:
+  utter_namaskar:
+  - text: "Kasa ahes tu ? "
+    buttons:
+    - title: "Mast"
+      payload: "Mast"
+    - title: "Udas"
+      payload: "Udas"
+
+  utter_khus_ho:
+  - text: "He paha"
+    image: "https://i.imgur.com/nGF1K8f.jpg"
+
+  utter_madat_upyogi_padli_ka:
+  - text: "Mazi madat upayogi padli ka"
+
+  utter_mast:
+  - text: "Sahiye !!!"
+
+  utter_alvida:
+  - text: "Alvida"
