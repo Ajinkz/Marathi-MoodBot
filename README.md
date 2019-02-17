@@ -49,7 +49,7 @@ visualize your stories as a graph
 ## Results
 ![Chatbot Snippet](https://github.com/Ajinkz/Marathi-MoodBot/blob/master/Marathi_moodbot.png)
 <img src="https://github.com/Ajinkz/Marathi-MoodBot/blob/master/Marathi_moodbot.png" alt="hi" class="inline"/>
-
+[[https://github.com/Ajinkz/Marathi-MoodBot/blob/master/Marathi_moodbot.png]]
 
 ## Acknowledgment
 
