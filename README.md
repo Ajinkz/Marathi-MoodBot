@@ -2,6 +2,7 @@
 Setup requires Python==3.6.x
 
 This will install all required packages 
+
 `pip install rasa`
 
 or alternatively you can do 
