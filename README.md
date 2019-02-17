@@ -49,7 +49,7 @@ visualize your stories as a graph
 ## Results
 ![Chatbot Snippet](https://github.com/Ajinkz/Marathi-MoodBot/blob/master/Marathi_moodbot.png)
 
-## Acknowledgment
+## Acknowledgments
 
 * [Souvik Ghosh](https://github.com/souvikg10/rasa_bot_example)
 * [Jitesh Gaikwad](https://github.com/JiteshGaikwad/RASA-Chatbot-UI)
